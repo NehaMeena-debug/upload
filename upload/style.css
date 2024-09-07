@@ -1,0 +1,9 @@
+body{
+    background-color:pink;
+}
+button{
+    height:100px;
+    width:150px;
+    color:white;
+    background-color: aqua;
+}
